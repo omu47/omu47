@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **core java,c++ with dsa|OS and kernel |**
 
-- 🤝 I’m looking for the collaboration **Kolibri Os (GSOC)**
+- 🤝 I’m looking for the collaboration **Kolibri Os**
 
 - 💬 Ask me about **core cryptography**
 
