@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm UmaShankar</h1>
-<h3 align="center">A CS Student learning and making things useful for the people and by the people :)-</h3>
+<h3 align="center">Building { <br>
+  blocks(Java.C++.dsa)</br>
+  }-</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omu47&label=Profile%20views&color=0e75b6&style=flat" alt="omu47" /> </p>
 
