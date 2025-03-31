@@ -5,7 +5,7 @@
   <a href="https://twitter.com/umashankar098" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
+  <a href="https://linkedin.com/in/omu47" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:umeshworld45@gmail.com">
@@ -46,11 +46,11 @@
 ---
 
 ### **📌 Pinned Projects**  
-1. **[Crypto Toolkit](https://github.com/omu47/project-link)**  
+1. **[Crypto Toolkit](https://github.com/B-Con/crypto-algorithms/blob/master/sha256.c)**  
    - A collection of **core cryptography algorithms** in C++.  
    - `SHA-256` | `AES` | `RSA`  
 
-2. **[OS Dev Experiments](https://github.com/omu47/project-link)**  
+2. **[OS Dev Experiments](https://board.kolibrios.org/)**  
    - Bare-metal programming & kernel tweaks.  
    - `Assembly` | `C` | `QEMU`  
 
